@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 2,
+    "ngo_name": "Akshara Centre",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+{
+    "id": 3,
+    "ngo_name": "ALERT-INDIA Association for Leprosy education, Rehabilitation & Treatment India",
+    "ngo_city": "Mumbai",
+    "type": "Health"
+  },
+  {
+    "id": 4,
+    "ngo_name": "Arpan",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+  {
+    "id": 5,
+    "ngo_name": "Child Help Foundation",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 6,
+    "ngo_name": "Children Toy Foundation",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+  {
+    "id": 7,
+    "ngo_name": "Child Rights and You (CRY)",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 8,
+    "ngo_name": "Committed Communities Development Trust",
+    "ngo_city": "Mumbai",
+    "type": "Health"
+  },
+  {
+    "id": 9,
+    "ngo_name": "Fragile X Society",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+  {
+    "id": 10,
+    "ngo_name": "Habitat for Humanity India Trust",
+    "ngo_city": "Mumbai",
+    "type": "Disaster Management"
+  },
+  {
+    "id": 11,
+    "ngo_name": "Happy Feet Home Foundation",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 12,
+    "ngo_name": "Helen Keller Institute for Deaf & Deafblind",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 13,
+    "ngo_name": "Humane Society International/India",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 14,
+    "ngo_name": "Karunya Trust",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 15,
+    "ngo_name": "Magic Bus India Foundation",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 16,
+    "ngo_name": "Making A Difference Foundation",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 17,
+    "ngo_name": "MelJol",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 18,
+    "ngo_name": "Light Of Life Trust",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+  {
+    "id": 19,
+    "ngo_name": "Prerana",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+  {
+    "id": 20,
+    "ngo_name": "Save The Children India",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+  {
+    "id": 21,
+    "ngo_name": "St. Jude India Childcare Centres",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+  {
+    "id": 22,
+    "ngo_name": "Young Innovators Foundation",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+  {
+    "id": 23,
+    "ngo_name": "Aadhar Foundation Mumbai",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },{
+    "id": 24,
+    "ngo_name": "Aai Caretaker",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+  {
+    "id": 25,
+    "ngo_name": "Aastha Foundation",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+
+  {
+    "id": 26,
+    "ngo_name": "Aavhaan Pratishthan",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+  {
+    "id": 27,
+    "ngo_name": "Abhilasha Foundation",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+  {
+    "id": 28,
+    "ngo_name": "Ablaze Unique Welfare Trust",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 29,
+    "ngo_name": "Abundant Life Ministries",
+    "ngo_city": "Mumbai",
+    "type": "Children"
+  },
+  {
+    "id": 30,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 31,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 32,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 34,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 35,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },{
+    "id": 35,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 36,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 37,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 38,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 39,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 40,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 41,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 42,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 43,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 44,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 45,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 46,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 47,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 48,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+  {
+    "id": 49,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  }
+  {
+    "id": 50,
+    "ngo_name": "Sahara",
+    "ngo_city": "Mumbai",
+    "type": "Education"
+  },
+]
